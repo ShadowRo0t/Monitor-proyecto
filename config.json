@@ -1,0 +1,9 @@
+{
+  "limite": 0.3,
+  "servicios": {
+    "Google": "https://www.google.com",
+    "Youtube": "https://www.youtube.com/",
+    "GitHub": "https://www.github.com",
+    "GitLab": "https://gitlab.com"
+  }
+}

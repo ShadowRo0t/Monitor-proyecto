@@ -1,0 +1,2 @@
+El promedio fue: 0.250442 segundos
+El promedio fue: 0.230327 segundos
